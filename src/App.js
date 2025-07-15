@@ -272,7 +272,7 @@ function App() {
                   <Accordion.Header>データはいつ納品されますか？</Accordion.Header>
                   <Accordion.Body>
                     撮影後、数営業日以内にダウンロード形式で納品いたします。
-                  </Card.Body>
+                  </Accordion.Body>
                 </Accordion.Item>
                 <Accordion.Item eventKey="2">
                   <Accordion.Header>どのようなデータ形式で納品されますか？</Accordion.Header>
