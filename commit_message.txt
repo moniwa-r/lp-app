@@ -1,0 +1,1 @@
+Fix video path for subpath deployment and add animations

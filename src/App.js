@@ -10,7 +10,7 @@ function App() {
       {/* Fixed Header */}
       <Navbar bg="dark" variant="dark" expand="lg" fixed="top">
         <Container>
-          <Navbar.Brand href="#home">Human 3DGS</Navbar.Brand>
+          <Navbar.Brand href="#home">Asolab. 3DGS</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
