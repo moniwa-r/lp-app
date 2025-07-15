@@ -141,7 +141,7 @@ function App() {
             <Row className="justify-content-center">
               <Col md={8}>
                 <Fade triggerOnce>
-                  <video src="/videos/3dgs.mp4" width="100%" controls autoPlay muted loop playsInline />
+                  <video src={process.env.PUBLIC_URL + "/videos/3dgs.mp4"} width="100%" controls autoPlay muted loop playsInline />
                 </Fade>
               </Col>
             </Row>
