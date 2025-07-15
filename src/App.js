@@ -246,7 +246,7 @@ function App() {
                   <Card.Title className="display-4">¥1,000</Card.Title>
                   <Card.Text>
                     期間限定の特別価格。全身の3DGSモデル作成を体験いただけます。
-                  </Card.Text>
+                  </Card.Card.Text>
                   <Button href="#contact" variant="primary" size="lg">今すぐ予約する</Button>
                 </Card.Body>
               </Card>
@@ -272,7 +272,7 @@ function App() {
                   <Accordion.Header>データはいつ納品されますか？</Accordion.Header>
                   <Accordion.Body>
                     撮影後、数営業日以内にダウンロード形式で納品いたします。
-                  </Accordion.Body>
+                  </Card.Body>
                 </Accordion.Item>
                 <Accordion.Item eventKey="2">
                   <Accordion.Header>どのようなデータ形式で納品されますか？</Accordion.Header>
