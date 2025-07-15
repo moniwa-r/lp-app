@@ -246,7 +246,7 @@ function App() {
                   <Card.Title className="display-4">¥1,000</Card.Title>
                   <Card.Text>
                     期間限定の特別価格。全身の3DGSモデル作成を体験いただけます。
-                  </Card.Card.Text>
+                  </Card.Text>
                   <Button href="#contact" variant="primary" size="lg">今すぐ予約する</Button>
                 </Card.Body>
               </Card>
